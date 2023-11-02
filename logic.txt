@@ -1,0 +1,2 @@
+~~~~~~~~~~~~~~~~~~~HOW TO USE PARAMS~~~~~~~~~~~~~~~~~~~~~~~~
+Params r use by :id , get the of the array 

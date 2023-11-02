@@ -1,0 +1,27 @@
+/* Header Component Style */
+
+.header {
+  font-family: "Arial, Helvetica, sans-serif";
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  font-weight: lighter;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.detailCard {
+  width: 400px;
+  height: auto;
+  border: 1px solid;
+}
+
+.shaffleArr {
+  display: flex;
+}
+.shaffle {
+  border: 1px solid;
+}
