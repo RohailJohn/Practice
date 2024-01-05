@@ -7,6 +7,8 @@ import "react-toastify/dist/ReactToastify.css";
 
 import "./css/index.css";
 
+const badge = "extraordinary";
+
 const App = () => {
   return (
     <div className="App">
