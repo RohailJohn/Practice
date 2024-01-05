@@ -7,7 +7,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 import "./css/index.css";
 
-const name = "Rohail John";
+const name = "Sam Zafar";
 
 const App = () => {
   return (
