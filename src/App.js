@@ -7,7 +7,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 import "./css/index.css";
 
-const badge = "extraordinary";
+const name = "Rohail John";
 
 const App = () => {
   return (
